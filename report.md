@@ -4,12 +4,8 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-<<<<<<< HEAD
+
 [Не валидный ключ](https://github.com/EvgenyBrykalin/java1.1/issues/1)
-=======
-https://github.com/EvgenyBrykalin/java1.1/issues/1
-https://github.com/EvgenyBrykalin/java1.1/issues/2
->>>>>>> a9991dcb90fcdf9d403fa8aae7a0f8a977c2be05
 
 [Валидный ключ в графе "не валидный"](https://github.com/EvgenyBrykalin/java1.1/issues/2)
 
@@ -54,9 +50,7 @@ c2bc778a-1cb9-46c6-b435-0489649d2a42
 Тестирование производилось в следующем окружении:
 
 Windows10 64
-<<<<<<< HEAD
 
 версия Java openjdk version "11.0.10" 2021-01-19
-=======
+
 версия Java openjdk version "11.0.10" 2021-01-19
->>>>>>> a9991dcb90fcdf9d403fa8aae7a0f8a977c2be05
