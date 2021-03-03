@@ -4,8 +4,8 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-https://github.com/EvgenyBrykalin/java1/issues/1
-https://github.com/EvgenyBrykalin/java1/issues/2
+https://github.com/EvgenyBrykalin/java1.1/issues/1
+https://github.com/EvgenyBrykalin/java1.1/issues/2
 
 Описание процесса тестирования
 
